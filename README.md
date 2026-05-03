@@ -3,4 +3,4 @@
 Добавлено:
 - бинарный поиск (binary-search)
 - bubble sort (bubble - sort)
-- 
+- метод, который проверяет простое число или нет (isPrime)
