@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/bubble - sort/bubble - sort.iml" filepath="$PROJECT_DIR$/bubble - sort/bubble - sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPrime/isPrime.iml" filepath="$PROJECT_DIR$/isPrime/isPrime.iml" />
     </modules>
   </component>
 </project>
